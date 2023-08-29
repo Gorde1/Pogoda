@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="json-20230618">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/json-20230618.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/openjfx-20.0.2_windows-x64_bin-sdk.zip!/" />
+      <root url="jar://$USER_HOME$/Downloads/openjfx-20.0.2_monocle-windows-x64_bin-sdk.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
